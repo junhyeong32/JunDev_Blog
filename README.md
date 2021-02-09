@@ -1,5 +1,8 @@
-# JunDev_Blog
+> JunDev_Blog
 
+## Build Setup
+
+``` bash
 # install dependencies
 $ npm install # Or yarn install
 
@@ -12,3 +15,5 @@ $ npm start
 
 # generate static project
 $ npm run generate
+```
+
